@@ -16,7 +16,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Blossom',
         role: 'Superhero',
-        avatar: '/avatars/blossom.jpg'
+        avatar: '/packages/awatson1978_accounts-power-puff-girls/powerpuffs/blossom.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -30,7 +30,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Bubbles',
         role: 'Superhero',
-        avatar: '/avatars/bubbles.jpg'
+        avatar: '/packages/awatson1978_accounts-power-puff-girls/powerpuffs/bubbles.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -43,7 +43,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Buttercup',
         role: 'Superhero',
-        avatar: '/avatars/buttercup.jpg'
+        avatar: '/packages/awatson1978_accounts-power-puff-girls/powerpuffs/buttercup.jpg'
       }
     });
     console.info('Account created: ' + userId);
